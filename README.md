@@ -21,7 +21,8 @@ Security concern – you may want to be informed when a new device is connected 
 1. Nmap
 1. Arp
 1. https://macvendors.com/api
-1. Python script for code
+1. Python script
+1. Bash script
 1. Logs / database
 
 
