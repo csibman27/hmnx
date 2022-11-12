@@ -19,7 +19,9 @@ Security concern – you may want to be informed when a new device is connected 
 1. Raspberry pi
 1. Sense hat
 1. Nmap
-1. python script for code
+1. Arp
+1. https://macvendors.com/api
+1. Python script for code
 1. Logs / database
 
 
