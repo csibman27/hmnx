@@ -11,8 +11,8 @@ Raspberry pi sense hat to shows the number of devices/ IoT devices connected to 
 Good idea to know how many IoT devices around you.
 Monitor how much power these devices draw.
 Security concern – you may want to be informed when a new device is connected to your network. 
--	By email
--	By sense hat showing the new device connected
+-	By email informing us when a new device connected
+-	By sense hat showing the number of devices connected
 -	Store device names and MAC address in a log file
 
 ## Tools, Technologies and Equipment
